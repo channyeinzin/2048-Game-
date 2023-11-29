@@ -5,7 +5,7 @@
 
 This project is an extended version of the classic 2048 puzzle game, enhanced with an artificial intelligence (AI) component. It offers both a challenging gaming experience and an opportunity to learn about game development and AI in Python.
 
-![2048 Game](insert_image_url_here)
+![2048 Game](2048.png)
 
 ## Features
 
