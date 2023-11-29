@@ -30,15 +30,11 @@ This project is an extended version of the classic 2048 puzzle game, enhanced wi
 2. Install the required dependencies.
 3. Run the `GameManager.py` script to start the game.
 
-## Usage
-
-- Use arrow keys to make tile movements in the game.
-- The AI agent can be toggled on or off for different levels of challenge.
-- Enjoy the game and try to reach the elusive 2048 tile!
-
 ## Future Enhancements
 
 - Improved AI strategies for more complex gameplay.
+- Use arrow keys to make tile movements in the game.
+- The AI agent can be toggled on or off for different levels of challenge.
 - Additional game modes and difficulty levels.
 - Enhanced graphical interface with animations and effects.
 - Online multiplayer capabilities.
